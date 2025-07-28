@@ -1,4 +1,4 @@
 # trifvck
-\* increment accumulator\\
-! output accumulator\\
-\~ reset accumulator\\
+\* increment accumulator<br>
+! output accumulator<br>
+\~ reset accumulator<br>
