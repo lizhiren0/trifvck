@@ -1,2 +1,4 @@
 # trifvck
-three-character brainf---
+\* increment accumulator\\
+! output accumulator\\
+\~ reset accumulator\\
